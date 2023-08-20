@@ -10,7 +10,7 @@ This is 23' contest laneKeeping code based on CNN model.
 Better dataset, Better trained_weight_file.
 Adjust parameter as your platform want!
 
-2. message.py is communication function based on JSONarduino(python <-> arduino).
+2. message.py is communication function based on JSONarduino(python <-> arduino).[수정중]
 
 3. 
 
